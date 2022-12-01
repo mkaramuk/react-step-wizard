@@ -502,6 +502,7 @@ exports[`Step Wizard Component nav 1`] = `
   className={null}
 >
   <div
+    currentStepName="step1"
     currentStep={1}
     firstStep={[Function]}
     goToNamedStep={[Function]}
